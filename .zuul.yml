@@ -15,4 +15,4 @@ browsers:
   - name: iphone
     version: latest
   - name: android
-    version: 4.0...4.3
+    version: [4.0, 4.1, 4.2, 4.3]
