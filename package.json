@@ -4,11 +4,12 @@
   "description": "Sample project for zuul and saucelabs.",
   "main": "index.js",
   "scripts": {
-    "test": "tape test/test.js"
+    "test": "tape test/test.js && zuul --test/test.js"
   },
   "author": "Teppei Sato <teppeis@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "tape": "^3.0.0"
+    "tape": "^3.0.0",
+    "zuul": "^1.11.0"
   }
 }
