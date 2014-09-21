@@ -1,0 +1,18 @@
+ui: tape
+browsers:
+  - name: ie
+    version: 8..latest
+    platform: Windows 2008
+  - name: chrome
+    version: [latest, b]
+    platform: Windows 2008
+  - name: firefox
+    version: latest
+    platform: Windows 2008
+  - name: safari
+    version: latest
+    platform: Mac 10.9
+  - name: iphone
+    version: latest
+  - name: android
+    version: 4.0...4.3
