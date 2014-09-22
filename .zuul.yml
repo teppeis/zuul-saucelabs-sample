@@ -1,4 +1,4 @@
-ui: tape
+ui: mocha-bdd
 browsers:
   - name: ie
     version: 8..latest
