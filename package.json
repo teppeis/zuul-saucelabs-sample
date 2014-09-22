@@ -6,6 +6,7 @@
   "scripts": {
     "test": "tape test/test.js && zuul -- test/test.js"
   },
+  "repository": "https://github.com/teppeis/zuul-saucelabs-sample",
   "author": "Teppei Sato <teppeis@gmail.com>",
   "license": "MIT",
   "devDependencies": {
