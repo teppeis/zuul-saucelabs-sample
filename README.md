@@ -1,6 +1,8 @@
 zuul-saucelabs-sample
 ====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/teppeis/zuul-saucelabs-sample.svg)](https://greenkeeper.io/)
+
 Sample project for zuul and saucelabs.
 
 [![Build Status](https://travis-ci.org/teppeis/zuul-saucelabs-sample.svg?branch=master)](https://travis-ci.org/teppeis/zuul-saucelabs-sample)
